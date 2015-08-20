@@ -1,6 +1,6 @@
 {
   "name": "rocketmq-common",
   "dependencies": {
-    "nsystem": "0.0.1"
+    "nsystem": "0.0.2"
   }
 }
