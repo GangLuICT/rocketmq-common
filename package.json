@@ -2,6 +2,7 @@
   "name": "rocketmq-common",
   "dependencies": {
     "mkdirp": "^0.5.1",
+    "nproperties": "0.0.2",
     "nsystem": "0.0.2"
   }
 }
