@@ -1,6 +1,7 @@
 {
   "name": "rocketmq-common",
   "dependencies": {
+    "mkdirp": "^0.5.1",
     "nsystem": "0.0.2"
   }
 }
